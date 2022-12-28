@@ -34,7 +34,7 @@
 
 (set 'user-login (let ((login (getenv "HEADER42_LOGIN")))
 				   (if (string= login nil)
-					   "marvin"
+					   "saomole"
 					 login)
 				   )
 	 )
@@ -42,7 +42,7 @@
 
 (set 'user-mail (let ((mail (getenv "HEADER42_MAIL")))
 				   (if (string= mail nil)
-					   "marvin@42.fr"
+			             "saomole@student.42wolfsburg.de"
 					 mail)
 				   )
 	 )
