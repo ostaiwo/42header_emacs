@@ -3,7 +3,7 @@
 ###  Install using the script :
 
 ```bash
-git clone https://github.com/ggjulio/42header_emacs.git
+git clone https://github.com/ostaiwo/42header_emacs.git
 cd 42header_emacs
 ./set_header.sh saomole saomole@student.42wolfsburg.de         # usage :  ./set_header.sh [LOGIN] [MAIL]
 source ~/.zshrc
