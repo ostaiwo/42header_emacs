@@ -5,7 +5,7 @@
 ```bash
 git clone https://github.com/ggjulio/42header_emacs.git
 cd 42header_emacs
-./set_header.sh marvin marvin@42.fr         # usage :  ./set_header.sh [LOGIN] [MAIL]
+./set_header.sh saomole saomole@student.42wolfsburg.de         # usage :  ./set_header.sh [LOGIN] [MAIL]
 source ~/.zshrc
 cd ..
 rm -rf 42header_emacs
